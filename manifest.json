@@ -2,7 +2,7 @@
   "name": "Vault — Private Finance",
   "short_name": "Vault",
   "description": "Your private expense tracker. No cloud, no tracking, no ads.",
-  "start_url": "/",
+  "start_url": "/expense-tracker/",
   "display": "standalone",
   "background_color": "#080C18",
   "theme_color": "#080C18",
